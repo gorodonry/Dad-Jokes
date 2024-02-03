@@ -1,8 +1,6 @@
-##
-# main.py
-# Date: 23/07/2022
-# Author: Ryan Gordon
-# Prints out dad jokes at random until the user terminates the program
+"""
+Prints out dad jokes at random until the user terminates the program.
+"""
 
 import random
 import json
